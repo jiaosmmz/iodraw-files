@@ -1416,7 +1416,7 @@
         <mxCell id="KD0_RaF_c2-840r9aC6T-151" value="&lt;b&gt;MeanFlow Pnp&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="613.12" y="142" width="150" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="KD0_RaF_c2-840r9aC6T-155" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="KD0_RaF_c2-840r9aC6T-155" value="" style="group;strokeColor=#D7E8C7;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="595.5" y="170" width="169" height="98" as="geometry" />
         </mxCell>
         <mxCell id="KD0_RaF_c2-840r9aC6T-152" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#FEF6E0;" vertex="1" parent="KD0_RaF_c2-840r9aC6T-155">
