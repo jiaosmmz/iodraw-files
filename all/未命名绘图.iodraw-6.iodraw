@@ -1557,7 +1557,7 @@
           <mxGeometry x="897.25" y="281.38" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KD0_RaF_c2-840r9aC6T-228" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;2，256，256&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="881.25" y="311.75" width="100" height="40" as="geometry" />
+          <mxGeometry x="881.25" y="300.27" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KD0_RaF_c2-840r9aC6T-230" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=20.74;exitDy=13.385;exitPerimeter=0;entryX=0.017;entryY=0.905;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KD0_RaF_c2-840r9aC6T-102" target="KD0_RaF_c2-840r9aC6T-146">
           <mxGeometry relative="1" as="geometry">
