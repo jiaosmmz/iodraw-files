@@ -1152,7 +1152,7 @@
           <mxGeometry x="467" y="230" width="73" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KD0_RaF_c2-840r9aC6T-42" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
-          <mxGeometry x="460" y="310" width="70" height="40" as="geometry" />
+          <mxGeometry x="464" y="260" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
