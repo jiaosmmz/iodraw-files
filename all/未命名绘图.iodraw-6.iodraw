@@ -1396,11 +1396,6 @@
         <mxCell id="KD0_RaF_c2-840r9aC6T-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.481;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="KD0_RaF_c2-840r9aC6T-152" target="KD0_RaF_c2-840r9aC6T-165">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KD0_RaF_c2-840r9aC6T-220" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KD0_RaF_c2-840r9aC6T-168">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="KD0_RaF_c2-840r9aC6T-168" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="420.07" y="261.75" width="30" height="90" as="geometry" />
         </mxCell>
@@ -1534,7 +1529,7 @@
             <mxPoint x="840" y="239" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KD0_RaF_c2-840r9aC6T-216" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.002;exitY=0.359;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="KD0_RaF_c2-840r9aC6T-216" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 7px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;$$\Delta = X_2 - \mathcal{W}\left(X_1 Z\right) - \mathcal{N}$$&lt;/span&gt;&#xa;&#xa;" style="endArrow=classic;html=1;rounded=0;exitX=1.002;exitY=0.359;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="790" y="280" as="sourcePoint" />
             <mxPoint x="840" y="280" as="targetPoint" />
