@@ -1538,7 +1538,7 @@
         <mxCell id="KD0_RaF_c2-840r9aC6T-217" value="Z" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="790" y="212" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KD0_RaF_c2-840r9aC6T-218" value="&lt;span style=&quot;font-size: 7px; background-color: rgb(236, 236, 236);&quot;&gt;$$\Delta = X_2 - \mathcal{W}\left(X_1 Z\right) - \mathcal{N}$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KD0_RaF_c2-840r9aC6T-218" value="&lt;span style=&quot;font-size: 7px; background-color: rgb(236, 236, 236);&quot;&gt;$$\Delta $$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="791" y="250" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
