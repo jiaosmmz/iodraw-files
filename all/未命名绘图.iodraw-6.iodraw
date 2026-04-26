@@ -1409,6 +1409,11 @@
         <mxCell id="KD0_RaF_c2-840r9aC6T-147" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1155" y="458" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="KD0_RaF_c2-840r9aC6T-148" value="Diffusion&lt;br&gt;Network" style="whiteSpace=wrap;html=1;strokeColor=#F2B680;fillColor=#FFE0CC;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=black;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="420" width="360" height="200" as="geometry">
+            <mxPoint x="120" y="100" as="point" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
