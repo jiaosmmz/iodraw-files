@@ -1348,19 +1348,19 @@
           <mxGeometry x="420" y="142.97" width="260" height="107.03" as="geometry" />
         </mxCell>
         <mxCell id="KD0_RaF_c2-840r9aC6T-116" value="&lt;font color=&quot;#431c7a&quot;&gt;&lt;b&gt;Temporal Mapper&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="463.81" y="142.97" width="134" height="15" as="geometry" />
+          <mxGeometry x="443" y="142.97" width="134" height="15" as="geometry" />
         </mxCell>
         <mxCell id="KD0_RaF_c2-840r9aC6T-118" value="1x1conv" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="450.06" y="191.06" width="73" height="30" as="geometry" />
+          <mxGeometry x="409.5" y="186.29" width="73" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KD0_RaF_c2-840r9aC6T-120" value="ReLU" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="480.57" y="191.06" width="73" height="30" as="geometry" />
+          <mxGeometry x="440.01" y="186.29" width="73" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KD0_RaF_c2-840r9aC6T-121" value="Sigmoid" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="541.1300000000001" y="191.06" width="73" height="30" as="geometry" />
+          <mxGeometry x="500.5700000000001" y="186.29" width="73" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KD0_RaF_c2-840r9aC6T-122" value="1x1conv" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="510.69" y="191.06" width="73" height="30" as="geometry" />
+          <mxGeometry x="470.13" y="186.29" width="73" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
