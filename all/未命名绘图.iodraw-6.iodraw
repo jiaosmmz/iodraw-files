@@ -1396,9 +1396,6 @@
         <mxCell id="KD0_RaF_c2-840r9aC6T-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.481;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="KD0_RaF_c2-840r9aC6T-152" target="KD0_RaF_c2-840r9aC6T-165">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KD0_RaF_c2-840r9aC6T-167" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="609.6799999999998" y="337.9" width="221.63" height="46.62" as="geometry" />
-        </mxCell>
         <mxCell id="KD0_RaF_c2-840r9aC6T-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KD0_RaF_c2-840r9aC6T-168">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="470" y="314.8571428571429" as="targetPoint" />
