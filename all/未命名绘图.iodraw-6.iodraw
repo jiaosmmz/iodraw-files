@@ -1550,8 +1550,8 @@
             <mxPoint x="469.49" y="316.13" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KD0_RaF_c2-840r9aC6T-223" value="CDhead" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="870" y="340" width="60" height="30" as="geometry" />
+        <mxCell id="KD0_RaF_c2-840r9aC6T-223" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;CDhead&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="820" y="268.98" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
