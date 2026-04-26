@@ -1449,13 +1449,10 @@
           <mxGeometry x="1053.12" y="208.76" width="221.63" height="46.62" as="geometry" />
         </mxCell>
         <mxCell id="KD0_RaF_c2-840r9aC6T-168" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="420" y="270" width="30" height="117.63" as="geometry" />
+          <mxGeometry x="420" y="280" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="KD0_RaF_c2-840r9aC6T-169" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Condition Encoder&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="382.19" y="321.04" width="105.63" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="KD0_RaF_c2-840r9aC6T-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=7.869999999999999;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.398;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KD0_RaF_c2-840r9aC6T-106" target="KD0_RaF_c2-840r9aC6T-168">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
