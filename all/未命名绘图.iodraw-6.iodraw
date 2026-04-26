@@ -1512,7 +1512,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KD0_RaF_c2-840r9aC6T-211" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="558" y="385" width="120" height="60" as="geometry" />
+          <mxGeometry x="568" y="395" width="202" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="KD0_RaF_c2-840r9aC6T-212" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="621" y="395" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
