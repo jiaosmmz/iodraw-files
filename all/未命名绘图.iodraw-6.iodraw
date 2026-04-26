@@ -1121,7 +1121,7 @@
           <mxGeometry x="566" y="-84.56" width="53.88" height="30.51" as="geometry" />
         </mxCell>
         <mxCell id="KD0_RaF_c2-840r9aC6T-19" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;size=11;" vertex="1" parent="1">
-          <mxGeometry x="602.18" y="-78.75" width="53.88" height="30.51" as="geometry" />
+          <mxGeometry x="592.75" y="-84.56" width="34.5" height="25.95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
