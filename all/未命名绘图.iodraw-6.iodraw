@@ -1529,14 +1529,11 @@
             <mxPoint x="840" y="239" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KD0_RaF_c2-840r9aC6T-216" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.002;exitY=0.359;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="KD0_RaF_c2-840r9aC6T-216" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="790" y="280" as="sourcePoint" />
+            <mxPoint x="780" y="280" as="sourcePoint" />
             <mxPoint x="840" y="280" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="KD0_RaF_c2-840r9aC6T-217" value="Z" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="790" y="212" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KD0_RaF_c2-840r9aC6T-218" value="&lt;span style=&quot;font-size: 7px; background-color: rgb(236, 236, 236);&quot;&gt;$$\Delta $$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="801.75" y="263.53000000000003" width="25.5" height="12.46" as="geometry" />
