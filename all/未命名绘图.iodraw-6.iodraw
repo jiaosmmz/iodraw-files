@@ -1422,7 +1422,7 @@
         <mxCell id="KD0_RaF_c2-840r9aC6T-140" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;container=0;fillColor=#E1F0DD;" vertex="1" parent="1">
           <mxGeometry x="633.8100000000001" y="197.86999999999998" width="70" height="59.1" as="geometry" />
         </mxCell>
-        <mxCell id="KD0_RaF_c2-840r9aC6T-145" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;container=0;fillColor=#D7E8C7;" vertex="1" parent="1">
+        <mxCell id="KD0_RaF_c2-840r9aC6T-145" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;container=0;fillColor=#D7E8C7;strokeColor=#D5E1F1;" vertex="1" parent="1">
           <mxGeometry x="693.1" y="197.33999999999997" width="69.5" height="59.64" as="geometry" />
         </mxCell>
         <mxCell id="KD0_RaF_c2-840r9aC6T-157" value="" style="endArrow=none;html=1;rounded=0;dashed=1;" edge="1" parent="1">
