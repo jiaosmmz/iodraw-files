@@ -1541,6 +1541,9 @@
         <mxCell id="KD0_RaF_c2-840r9aC6T-218" value="&lt;span style=&quot;font-size: 7px; background-color: rgb(236, 236, 236);&quot;&gt;$$\Delta $$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="801.75" y="263.53000000000003" width="25.5" height="12.46" as="geometry" />
         </mxCell>
+        <mxCell id="KD0_RaF_c2-840r9aC6T-219" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="863" y="268" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
