@@ -1398,10 +1398,10 @@
           <mxGeometry x="355.13" y="350" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KD0_RaF_c2-840r9aC6T-140" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="609.62" y="310" width="89" height="80" as="geometry" />
+          <mxGeometry x="416.31" y="278.75" width="89" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KD0_RaF_c2-840r9aC6T-145" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="740.5" y="310" width="89" height="80" as="geometry" />
+          <mxGeometry x="496.56" y="278.75" width="89" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
