@@ -1433,8 +1433,8 @@
         </mxCell>
         <mxCell id="KD0_RaF_c2-840r9aC6T-158" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="790" y="340" as="sourcePoint" />
-            <mxPoint x="710" y="280" as="targetPoint" />
+            <mxPoint x="820" y="280" as="sourcePoint" />
+            <mxPoint x="763.12" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
