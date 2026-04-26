@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KD0_RaF_c2-840r9aC6T-146" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#FEF6E0;strokeColor=#FFD966;" vertex="1" parent="1">
-          <mxGeometry x="545.25" y="140" width="254.75" height="240" as="geometry" />
+        <mxCell id="KD0_RaF_c2-840r9aC6T-146" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;fillColor=#FEF6E0;strokeColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="545.25" y="140" width="284.75" height="240" as="geometry" />
         </mxCell>
         <mxCell id="KD0_RaF_c2-840r9aC6T-4" value="" style="rounded=10;fillColor=#F5F5F5;strokeColor=#DDDDDD;strokeWidth=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="-353" y="112.5" width="120" height="400" as="geometry" />
@@ -1406,10 +1406,10 @@
           <mxGeometry x="355.13" y="350" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KD0_RaF_c2-840r9aC6T-140" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="587.43" y="205.54000000000005" width="80" height="50.05" as="geometry" />
+          <mxGeometry x="605.88" y="192.90000000000003" width="80" height="50.05" as="geometry" />
         </mxCell>
         <mxCell id="KD0_RaF_c2-840r9aC6T-145" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="638.2599999999999" y="204.99999999999997" width="79.25" height="50.37" as="geometry" />
+          <mxGeometry x="656.7099999999999" y="192.35999999999996" width="79.25" height="50.37" as="geometry" />
         </mxCell>
         <mxCell id="KD0_RaF_c2-840r9aC6T-147" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1155" y="458" width="50" height="30" as="geometry" />
