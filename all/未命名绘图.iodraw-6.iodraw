@@ -1506,7 +1506,7 @@
           <mxGeometry x="463.81" y="267.86" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KD0_RaF_c2-840r9aC6T-199" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;32,32,128&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="458.5" y="230" width="61.5" height="20" as="geometry" />
+          <mxGeometry x="465.5" y="353.82" width="61.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KD0_RaF_c2-840r9aC6T-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.451;entryY=0.976;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KD0_RaF_c2-840r9aC6T-115" target="KD0_RaF_c2-840r9aC6T-128">
           <mxGeometry relative="1" as="geometry" />
@@ -1566,7 +1566,7 @@
           <mxGeometry x="896" y="319.63" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KD0_RaF_c2-840r9aC6T-228" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;2，256，256&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="590" width="100" height="40" as="geometry" />
+          <mxGeometry x="880" y="350" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
