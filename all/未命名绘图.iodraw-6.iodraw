@@ -1507,7 +1507,12 @@
           <mxGeometry x="450.5" y="255" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KD0_RaF_c2-840r9aC6T-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=20.74;exitDy=13.385;exitPerimeter=0;entryX=0.001;entryY=0.866;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KD0_RaF_c2-840r9aC6T-102" target="KD0_RaF_c2-840r9aC6T-146">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="368" y="380" />
+              <mxPoint x="563" y="380" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
