@@ -1451,10 +1451,10 @@
           <mxGeometry x="1053.12" y="208.76" width="221.63" height="46.62" as="geometry" />
         </mxCell>
         <mxCell id="KD0_RaF_c2-840r9aC6T-168" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="420" y="268.63" width="36" height="119" as="geometry" />
+          <mxGeometry x="420" y="268.63" width="30" height="119" as="geometry" />
         </mxCell>
         <mxCell id="KD0_RaF_c2-840r9aC6T-169" value="Condition Encoder" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="361" y="320" width="154" height="16" as="geometry" />
+          <mxGeometry x="358.75" y="320" width="154" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
