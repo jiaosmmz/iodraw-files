@@ -23,7 +23,7 @@
           <mxGeometry x="127.5" y="285" width="55" height="55" as="geometry" />
         </mxCell>
         <mxCell id="h8uRQgUfZNh2zq5BunJm-5" value="&lt;font color=&quot;#3c4785&quot;&gt;SiamBackbone&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="274" y="2" width="76" height="40" as="geometry" />
+          <mxGeometry x="235.5" y="155" width="76" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h8uRQgUfZNh2zq5BunJm-9" value="TempMap" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="127.5" y="42" width="99" height="40" as="geometry" />
