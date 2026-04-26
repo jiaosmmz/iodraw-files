@@ -1440,7 +1440,7 @@
         <mxCell id="KD0_RaF_c2-840r9aC6T-159" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="662.88" y="477.5" width="139.75" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="KD0_RaF_c2-840r9aC6T-161" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KD0_RaF_c2-840r9aC6T-161" value="Data Consistency&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(236, 236, 236);&quot;&gt;$$\bar{Z}_{0|t} = Z_{0|t} - \left(WX_1\right)^+ \left( WX_1 Z_{0|t} - \left( X_2 - \Delta - N \right) \right)$$&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="315" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
