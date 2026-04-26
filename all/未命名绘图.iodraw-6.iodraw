@@ -1344,8 +1344,8 @@
         <mxCell id="KD0_RaF_c2-840r9aC6T-114" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;32,32,192&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320.13" y="360" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KD0_RaF_c2-840r9aC6T-115" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2EDF9;strokeColor=#9673a6;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="142.97" width="260" height="107.03" as="geometry" />
+        <mxCell id="KD0_RaF_c2-840r9aC6T-115" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2EDF9;strokeColor=#9673a6;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="142.97" width="160" height="107.03" as="geometry" />
         </mxCell>
         <mxCell id="KD0_RaF_c2-840r9aC6T-116" value="&lt;font color=&quot;#431c7a&quot;&gt;&lt;b&gt;Temporal Mapper&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="427" y="145" width="134" height="15" as="geometry" />
