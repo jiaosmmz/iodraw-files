@@ -1338,7 +1338,7 @@
         <mxCell id="KD0_RaF_c2-840r9aC6T-115" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2EDF9;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="451.5" y="150" width="308.5" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="KD0_RaF_c2-840r9aC6T-116" value="Temporal Mapper" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KD0_RaF_c2-840r9aC6T-116" value="Temporal Mapper" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#BFAEDA;" vertex="1" parent="1">
           <mxGeometry x="841.25" y="165" width="134" height="15" as="geometry" />
         </mxCell>
       </root>
