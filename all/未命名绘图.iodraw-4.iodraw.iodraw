@@ -880,7 +880,7 @@
           <mxGeometry x="915" y="-145.52" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yyQ34NHMn-FRMsRrNazz-8" value="Diffusion&lt;br&gt;Network" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#F2B680;fillColor=#FFE0CC;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=black;" vertex="1" parent="1">
-          <mxGeometry x="150" y="100" width="300" height="200" as="geometry">
+          <mxGeometry x="20" y="-240" width="398" height="180" as="geometry">
             <mxPoint x="150" y="100" as="point" />
           </mxGeometry>
         </mxCell>
