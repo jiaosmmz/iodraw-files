@@ -1400,6 +1400,9 @@
         <mxCell id="KD0_RaF_c2-840r9aC6T-139" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="661" y="195" width="60" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="KD0_RaF_c2-840r9aC6T-140" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="684" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
