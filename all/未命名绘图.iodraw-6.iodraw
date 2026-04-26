@@ -1308,13 +1308,13 @@
         <mxCell id="KD0_RaF_c2-840r9aC6T-103" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;size=5;" vertex="1" parent="1">
           <mxGeometry x="376.26" y="323.23" width="20.74" height="21.77" as="geometry" />
         </mxCell>
-        <mxCell id="KD0_RaF_c2-840r9aC6T-104" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;size=5;" vertex="1" parent="1">
-          <mxGeometry x="343" y="307.86" width="20.74" height="21.77" as="geometry" />
+        <mxCell id="KD0_RaF_c2-840r9aC6T-104" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;size=5;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="341.93" y="308.93" width="20.74" height="19.63" as="geometry" />
         </mxCell>
         <mxCell id="KD0_RaF_c2-840r9aC6T-105" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;size=5;" vertex="1" parent="1">
           <mxGeometry x="359.88" y="307.86" width="20.74" height="21.77" as="geometry" />
         </mxCell>
-        <mxCell id="KD0_RaF_c2-840r9aC6T-106" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;size=5;" vertex="1" parent="1">
+        <mxCell id="KD0_RaF_c2-840r9aC6T-106" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;size=5;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="376.26" y="307.86" width="20.74" height="21.77" as="geometry" />
         </mxCell>
         <mxCell id="KD0_RaF_c2-840r9aC6T-107" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;size=5;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
