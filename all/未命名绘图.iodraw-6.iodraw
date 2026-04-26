@@ -1155,16 +1155,30 @@
           <mxGeometry x="464" y="265" width="66" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KD0_RaF_c2-840r9aC6T-44" value="" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="340" width="155.5" height="380" as="geometry" />
+          <mxGeometry x="518.12" y="275" width="91.5" height="380" as="geometry" />
         </mxCell>
         <mxCell id="KD0_RaF_c2-840r9aC6T-45" value="Lane 1" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="KD0_RaF_c2-840r9aC6T-44">
-          <mxGeometry y="20" width="155.5" height="120" as="geometry" />
+          <mxGeometry y="20" width="91.5" height="120" as="geometry">
+            <mxRectangle y="20" width="91.5" height="30" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="KD0_RaF_c2-840r9aC6T-46" value="Lane 2" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="KD0_RaF_c2-840r9aC6T-44">
-          <mxGeometry y="140" width="155.5" height="120" as="geometry" />
+          <mxGeometry y="140" width="91.5" height="120" as="geometry" />
         </mxCell>
         <mxCell id="KD0_RaF_c2-840r9aC6T-47" value="Lane 3" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="KD0_RaF_c2-840r9aC6T-44">
-          <mxGeometry y="260" width="155.5" height="120" as="geometry" />
+          <mxGeometry y="260" width="91.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KD0_RaF_c2-840r9aC6T-48" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;" vertex="1" parent="1">
+          <mxGeometry x="463" y="336" width="380" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="KD0_RaF_c2-840r9aC6T-49" value="Lane 1" style="swimlane;startSize=20;" vertex="1" parent="KD0_RaF_c2-840r9aC6T-48">
+          <mxGeometry x="20" width="120" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="KD0_RaF_c2-840r9aC6T-50" value="Lane 2" style="swimlane;startSize=20;" vertex="1" parent="KD0_RaF_c2-840r9aC6T-48">
+          <mxGeometry x="140" width="120" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="KD0_RaF_c2-840r9aC6T-51" value="Lane 3" style="swimlane;startSize=20;" vertex="1" parent="KD0_RaF_c2-840r9aC6T-48">
+          <mxGeometry x="260" width="120" height="480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
