@@ -1456,6 +1456,12 @@
         <mxCell id="KD0_RaF_c2-840r9aC6T-169" value="Condition Encoder" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="358.75" y="320" width="154" height="16" as="geometry" />
         </mxCell>
+        <mxCell id="KD0_RaF_c2-840r9aC6T-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=7.869999999999999;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.398;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KD0_RaF_c2-840r9aC6T-106" target="KD0_RaF_c2-840r9aC6T-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KD0_RaF_c2-840r9aC6T-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.123;entryY=0.502;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KD0_RaF_c2-840r9aC6T-169" target="KD0_RaF_c2-840r9aC6T-169">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
