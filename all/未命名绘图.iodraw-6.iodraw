@@ -1170,7 +1170,10 @@
           <mxGeometry x="492" y="230" width="18" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KD0_RaF_c2-840r9aC6T-60" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;size=5;" vertex="1" parent="1">
-          <mxGeometry x="472.87" y="225.95" width="18" height="20" as="geometry" />
+          <mxGeometry x="477" y="215.95" width="18" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KD0_RaF_c2-840r9aC6T-61" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;size=5;" vertex="1" parent="1">
+          <mxGeometry x="492" y="216.06" width="18" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
