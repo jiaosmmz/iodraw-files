@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KD0_RaF_c2-840r9aC6T-146" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;fillColor=#FEF6E0;strokeColor=#FFD966;" vertex="1" parent="1">
-          <mxGeometry x="541.25" y="165" width="424.75" height="210" as="geometry" />
+        <mxCell id="KD0_RaF_c2-840r9aC6T-146" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#FEF6E0;strokeColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="541.25" y="165" width="424.75" height="245" as="geometry" />
         </mxCell>
         <mxCell id="KD0_RaF_c2-840r9aC6T-4" value="" style="rounded=10;fillColor=#F5F5F5;strokeColor=#DDDDDD;strokeWidth=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="-353" y="112.5" width="120" height="400" as="geometry" />
@@ -1453,7 +1453,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KD0_RaF_c2-840r9aC6T-167" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="635" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="612.5" y="343.38" width="237.5" height="46.62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
