@@ -884,6 +884,18 @@
             <mxPoint x="150" y="100" as="point" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="yyQ34NHMn-FRMsRrNazz-10" value="$$X_1 = Z + N_1$$" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="862.37" y="-200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yyQ34NHMn-FRMsRrNazz-11" value="$$X_1 = X_1 Z + N_1$$" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="861.5" y="-170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yyQ34NHMn-FRMsRrNazz-12" value="$$X_2 = W X_1 + \Delta + N_2$$" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="880" y="-120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yyQ34NHMn-FRMsRrNazz-13" value="$$X_2 = W X_1 Z + \Delta + N$$" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="883.25" y="-80" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
