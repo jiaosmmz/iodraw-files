@@ -1895,6 +1895,9 @@
         <mxCell id="0r5U4mfMbZ7IdObahXQy-792" value="f&lt;span style=&quot;font-size: 10px;&quot;&gt;2&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="199.99999999999997" y="3290.0000000000005" width="42" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="0r5U4mfMbZ7IdObahXQy-793" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="3275" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
