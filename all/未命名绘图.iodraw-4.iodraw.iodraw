@@ -1820,7 +1820,7 @@
         <mxCell id="0r5U4mfMbZ7IdObahXQy-764" value="F" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="0r5U4mfMbZ7IdObahXQy-766">
           <mxGeometry y="20.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0r5U4mfMbZ7IdObahXQy-768" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0r5U4mfMbZ7IdObahXQy-768" value="f&lt;sub&gt;1&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="235" y="3225" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
