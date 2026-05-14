@@ -1995,9 +1995,6 @@
         <mxCell id="0r5U4mfMbZ7IdObahXQy-834" value="BN" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="586.85" y="3343.12" width="73" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0r5U4mfMbZ7IdObahXQy-840" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="0r5U4mfMbZ7IdObahXQy-835" target="0r5U4mfMbZ7IdObahXQy-839">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="0r5U4mfMbZ7IdObahXQy-835" value="ReLU" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="615.35" y="3343.12" width="73" height="30" as="geometry" />
         </mxCell>
@@ -2013,7 +2010,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0r5U4mfMbZ7IdObahXQy-839" value="F" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0r5U4mfMbZ7IdObahXQy-836">
-          <mxGeometry x="30" y="30" width="29.49" height="20.5" as="geometry" />
+          <mxGeometry x="18.14" y="25" width="29.49" height="20.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0r5U4mfMbZ7IdObahXQy-841" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.503;entryY=0.93;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0r5U4mfMbZ7IdObahXQy-835" target="0r5U4mfMbZ7IdObahXQy-837">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
