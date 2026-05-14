@@ -2034,7 +2034,7 @@
           <mxGeometry x="506.05999999999995" y="3222.23" width="73" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0r5U4mfMbZ7IdObahXQy-848" value="change_prob" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="888" y="3299" width="122" height="31" as="geometry" />
+          <mxGeometry x="1021.25" y="3460" width="122" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
