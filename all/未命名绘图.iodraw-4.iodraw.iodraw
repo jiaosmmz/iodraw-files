@@ -47,7 +47,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aK5iYfCvfuec7zbIM2A--28" value="NoiseModel" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="240" width="116" height="60" as="geometry" />
+          <mxGeometry x="260.26" y="30" width="116" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aK5iYfCvfuec7zbIM2A--43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="aK5iYfCvfuec7zbIM2A--29" target="aK5iYfCvfuec7zbIM2A--39" edge="1">
           <mxGeometry relative="1" as="geometry" />
