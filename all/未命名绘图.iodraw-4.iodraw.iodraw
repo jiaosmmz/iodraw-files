@@ -1848,9 +1848,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0r5U4mfMbZ7IdObahXQy-777" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=7.8700000000000045;exitDy=0;exitPerimeter=0;entryX=0.596;entryY=0.987;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0r5U4mfMbZ7IdObahXQy-758" target="0r5U4mfMbZ7IdObahXQy-769">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
