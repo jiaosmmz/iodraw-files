@@ -1830,7 +1830,10 @@
           <mxGeometry x="516.9999999999998" y="3350" width="73" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0r5U4mfMbZ7IdObahXQy-772" value="Sigmoid" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="546.9999999999998" y="3350" width="73" height="30" as="geometry" />
+          <mxGeometry x="690.4299999999998" y="3341.25" width="73" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0r5U4mfMbZ7IdObahXQy-773" value="ReLU" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="599.9999999999998" y="3341.25" width="73" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
