@@ -2085,18 +2085,10 @@
           <mxGeometry x="664.8000000000001" y="3363.53" width="35.03" height="18.9" as="geometry" />
         </mxCell>
         <mxCell id="0r5U4mfMbZ7IdObahXQy-871" value="guided_bg" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="767.2099999999999" y="3387.36" width="97.79" height="30" as="geometry" />
+          <mxGeometry x="755.9999999999999" y="3382.4300000000003" width="97.79" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0r5U4mfMbZ7IdObahXQy-874" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=24.499999999999996;exitDy=0;exitPerimeter=0;entryX=0.47;entryY=1.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0r5U4mfMbZ7IdObahXQy-853" target="0r5U4mfMbZ7IdObahXQy-871">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="760" y="3328" />
-              <mxPoint x="760" y="3399" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0r5U4mfMbZ7IdObahXQy-875" value="cond_feat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="878.71" y="3292" width="120" height="60" as="geometry" />
+        <mxCell id="0r5U4mfMbZ7IdObahXQy-875" value="cond_feat" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="845.0400000000001" y="3318.8500000000004" width="81.29" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
