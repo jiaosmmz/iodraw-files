@@ -2081,6 +2081,24 @@
         <mxCell id="0r5U4mfMbZ7IdObahXQy-875" value="cond_feat" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="845.0400000000001" y="3318.8500000000004" width="81.29" height="38" as="geometry" />
         </mxCell>
+        <mxCell id="0r5U4mfMbZ7IdObahXQy-876" value="3x3conv" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="544.6" y="3328.53" width="73" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0r5U4mfMbZ7IdObahXQy-877" value="BN" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="574.6" y="3328.53" width="73" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0r5U4mfMbZ7IdObahXQy-878" value="ReLU" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="603.1" y="3328.53" width="73" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0r5U4mfMbZ7IdObahXQy-879" value="3x3conv" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="457.55999999999995" y="3328.53" width="73" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0r5U4mfMbZ7IdObahXQy-880" value="BN" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="487.55999999999995" y="3328.53" width="73" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0r5U4mfMbZ7IdObahXQy-881" value="ReLU" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="516.06" y="3328.53" width="73" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
