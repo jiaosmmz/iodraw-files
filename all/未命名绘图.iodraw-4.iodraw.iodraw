@@ -2000,7 +2000,7 @@
         <mxCell id="0r5U4mfMbZ7IdObahXQy-835" value="ReLU" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="615.35" y="3343.12" width="73" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0r5U4mfMbZ7IdObahXQy-836" value="" style="group;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" connectable="0" parent="1">
+        <mxCell id="0r5U4mfMbZ7IdObahXQy-836" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="680" y="3327.62" width="65.76999999999998" height="61" as="geometry" />
         </mxCell>
         <mxCell id="0r5U4mfMbZ7IdObahXQy-837" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;size=12;fillColor=#d5e8d4;strokeColor=#82b366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="0r5U4mfMbZ7IdObahXQy-836">
