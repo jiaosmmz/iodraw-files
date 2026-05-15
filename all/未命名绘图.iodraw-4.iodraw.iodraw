@@ -1721,7 +1721,7 @@
         <mxCell id="0r5U4mfMbZ7IdObahXQy-739" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;2，256，256&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="1182.85" y="2735.9099999999994" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0r5U4mfMbZ7IdObahXQy-740" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;fillColor=#f7d6d4;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="0r5U4mfMbZ7IdObahXQy-740" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#f7d6d4;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="342.26" y="3190" width="797.74" height="250" as="geometry" />
         </mxCell>
         <mxCell id="0r5U4mfMbZ7IdObahXQy-741" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;MBCB&lt;/font&gt;&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
@@ -2042,7 +2042,7 @@
           <mxGeometry x="675" y="3267.74" width="95" height="25" as="geometry" />
         </mxCell>
         <mxCell id="0r5U4mfMbZ7IdObahXQy-853" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;size=12;fillColor=#FFF1F3;strokeColor=#9673a6;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="394.49" y="3217.24" width="61" height="60" as="geometry" />
+          <mxGeometry x="690" y="3204.6699999999996" width="61" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
