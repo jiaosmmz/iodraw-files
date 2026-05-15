@@ -2037,7 +2037,7 @@
           <mxGeometry x="1021.25" y="3460" width="122" height="31" as="geometry" />
         </mxCell>
         <mxCell id="0r5U4mfMbZ7IdObahXQy-851" value="change_prob" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="649.8" y="3269.5" width="95" height="25" as="geometry" />
+          <mxGeometry x="663.7099999999999" y="3190" width="95" height="25" as="geometry" />
         </mxCell>
         <mxCell id="0r5U4mfMbZ7IdObahXQy-853" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;size=12;fillColor=#FFF1F3;strokeColor=#9673a6;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="3300.97" width="61" height="60" as="geometry" />
