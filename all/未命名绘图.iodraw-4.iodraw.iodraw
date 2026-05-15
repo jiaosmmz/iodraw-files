@@ -2115,6 +2115,9 @@
         <mxCell id="0r5U4mfMbZ7IdObahXQy-900" value="ReLU" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="894.49" y="3330.5000000000005" width="73" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="0r5U4mfMbZ7IdObahXQy-905" value="C" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="839.83" y="3322.25" width="17.75" height="17.75" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
