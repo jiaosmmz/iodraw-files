@@ -2100,6 +2100,15 @@
         <mxCell id="0r5U4mfMbZ7IdObahXQy-897" value="cond_feat" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="1035.46" y="3332.9000000000005" width="81.29" height="38" as="geometry" />
         </mxCell>
+        <mxCell id="0r5U4mfMbZ7IdObahXQy-898" value="3x3conv" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="456.25999999999993" y="3239.7400000000002" width="73" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0r5U4mfMbZ7IdObahXQy-899" value="BN" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="486.25999999999993" y="3239.7400000000002" width="73" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0r5U4mfMbZ7IdObahXQy-900" value="ReLU" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="514.76" y="3239.7400000000002" width="73" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
