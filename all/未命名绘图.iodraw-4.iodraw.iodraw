@@ -1888,6 +1888,9 @@
         <mxCell id="0r5U4mfMbZ7IdObahXQy-804" value="Wf&lt;sub&gt;1&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="206.67000000000002" y="3160" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="0r5U4mfMbZ7IdObahXQy-902" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="0r5U4mfMbZ7IdObahXQy-815" target="0r5U4mfMbZ7IdObahXQy-898">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0r5U4mfMbZ7IdObahXQy-815" value="guided_change" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="755.9799999999999" y="3262" width="97.79" height="30" as="geometry" />
         </mxCell>
@@ -2036,6 +2039,9 @@
         </mxCell>
         <mxCell id="0r5U4mfMbZ7IdObahXQy-865" value="change_prob" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="663.71" y="3352" width="35.03" height="18.9" as="geometry" />
+        </mxCell>
+        <mxCell id="0r5U4mfMbZ7IdObahXQy-904" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="0r5U4mfMbZ7IdObahXQy-871" target="0r5U4mfMbZ7IdObahXQy-898">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0r5U4mfMbZ7IdObahXQy-871" value="guided_bg" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="755.9999999999999" y="3382.4300000000003" width="97.79" height="30" as="geometry" />
