@@ -153,15 +153,6 @@
         <mxCell id="riM_zDxXkj-kkfaJHS-f-453" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#ffe6cc;strokeColor=#d79b00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="3360" width="320" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="riM_zDxXkj-kkfaJHS-f-454" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="520.5200000000001" y="3397.6" width="254.3" height="96.61999999999944" as="geometry" />
-        </mxCell>
-        <mxCell id="riM_zDxXkj-kkfaJHS-f-455" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="riM_zDxXkj-kkfaJHS-f-454">
-          <mxGeometry width="254.3" height="32.62" as="geometry" />
-        </mxCell>
-        <mxCell id="riM_zDxXkj-kkfaJHS-f-456" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;&quot;&gt;$$\bar{Z}_{0|t} = \hat{Z}_{0|t} - (W X_1)^\dagger \left( W X_1 \hat{Z}_{0|t} - (X_2 - \Delta - N) \right)$$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="riM_zDxXkj-kkfaJHS-f-454">
-          <mxGeometry x="97.76124766140947" y="3.4299999999998363" width="60.78735466000023" height="25.752631578947366" as="geometry" />
-        </mxCell>
         <mxCell id="riM_zDxXkj-kkfaJHS-f-457" value="" style="endArrow=none;html=1;rounded=0;entryX=0.002;entryY=0.943;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;exitX=0.02;exitY=0.026;exitDx=0;exitDy=0;exitPerimeter=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="riM_zDxXkj-kkfaJHS-f-453" target="riM_zDxXkj-kkfaJHS-f-428">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="3360" as="sourcePoint" />
@@ -177,17 +168,8 @@
         <mxCell id="riM_zDxXkj-kkfaJHS-f-459" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="520.7" y="3364.98" width="254.3" height="32.62" as="geometry" />
         </mxCell>
-        <mxCell id="riM_zDxXkj-kkfaJHS-f-488" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="643.0666666666666" y="3397.6000000000004" as="sourcePoint" />
-            <mxPoint x="647.8" y="3461.5999999999995" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="riM_zDxXkj-kkfaJHS-f-461" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="520.52" y="3430.92" width="254.3" height="32.62" as="geometry" />
-        </mxCell>
-        <mxCell id="riM_zDxXkj-kkfaJHS-f-462" value="&lt;font&gt;&lt;b style=&quot;&quot;&gt;$$\hat{Z}_{t-1} = \sqrt{\bar{\alpha}_{t-1}} \bar{Z}_{0|t} + \sqrt{1 - \bar{\alpha}_{t-1}} \epsilon_\theta(\hat{Z}_t, t)$$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="610.4007534147402" y="3432.2299999999996" width="74.54606882571555" height="30" as="geometry" />
         </mxCell>
         <mxCell id="riM_zDxXkj-kkfaJHS-f-463" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F3ECF8;strokeColor=#9673a6;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="520.7" y="3461.6" width="254.3" height="32.62" as="geometry" />
@@ -271,6 +253,36 @@
         </mxCell>
         <mxCell id="riM_zDxXkj-kkfaJHS-f-487" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;2，256，256&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="1037.27" y="3342.5399999999995" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="riM_zDxXkj-kkfaJHS-f-489" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#ffe6cc;strokeColor=#d79b00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="3360" width="320" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="riM_zDxXkj-kkfaJHS-f-490" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="520.5200000000001" y="3397.6" width="254.3" height="96.61999999999944" as="geometry" />
+        </mxCell>
+        <mxCell id="riM_zDxXkj-kkfaJHS-f-491" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="riM_zDxXkj-kkfaJHS-f-490">
+          <mxGeometry width="254.3" height="32.62" as="geometry" />
+        </mxCell>
+        <mxCell id="riM_zDxXkj-kkfaJHS-f-492" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;&quot;&gt;$$\bar{Z}_{0|t} = \hat{Z}_{0|t} - (W X_1)^\dagger \left( W X_1 \hat{Z}_{0|t} - (X_2 - \Delta - N) \right)$$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="riM_zDxXkj-kkfaJHS-f-490">
+          <mxGeometry x="97.76124766140947" y="3.4299999999998363" width="60.78735466000023" height="25.752631578947366" as="geometry" />
+        </mxCell>
+        <mxCell id="riM_zDxXkj-kkfaJHS-f-493" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="520.7" y="3364.98" width="254.3" height="32.62" as="geometry" />
+        </mxCell>
+        <mxCell id="riM_zDxXkj-kkfaJHS-f-494" value="&lt;font&gt;&lt;b style=&quot;&quot;&gt;$$\hat{Z}_{0|t} = \left[ \hat{Z}_t - \sqrt{1 - \bar{\alpha}_t} \epsilon_\theta(\hat{Z}_t, t) \right] / \sqrt{\alpha_t}$$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="613.1300000000001" y="3367.6000000000004" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="riM_zDxXkj-kkfaJHS-f-495" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="520.52" y="3430.92" width="254.3" height="32.62" as="geometry" />
+        </mxCell>
+        <mxCell id="riM_zDxXkj-kkfaJHS-f-496" value="&lt;font&gt;&lt;b style=&quot;&quot;&gt;$$\hat{Z}_{t-1} = \sqrt{\bar{\alpha}_{t-1}} \bar{Z}_{0|t} + \sqrt{1 - \bar{\alpha}_{t-1}} \epsilon_\theta(\hat{Z}_t, t)$$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="610.4007534147402" y="3432.2299999999996" width="74.54606882571555" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="riM_zDxXkj-kkfaJHS-f-497" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F3ECF8;strokeColor=#9673a6;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="520.7" y="3461.6" width="254.3" height="32.62" as="geometry" />
+        </mxCell>
+        <mxCell id="riM_zDxXkj-kkfaJHS-f-498" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;$$\bar{\Delta}_{t-1} = \hat{\Delta}_t - \eta \left( \hat{\Delta}_t + W X_1 Z_0 - (X_2 - N) \right)$$&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="617.8499999999999" y="3461.6" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
