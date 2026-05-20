@@ -755,6 +755,9 @@
         <mxCell id="riM_zDxXkj-kkfaJHS-f-917" value="128，32，32" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="579.71" y="3781.43" width="110" height="27" as="geometry" />
         </mxCell>
+        <mxCell id="riM_zDxXkj-kkfaJHS-f-918" value="128，32，32" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="3873" width="100" height="27" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
