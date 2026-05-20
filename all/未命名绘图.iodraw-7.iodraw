@@ -740,6 +740,9 @@
         <mxCell id="riM_zDxXkj-kkfaJHS-f-912" value="192,32,32," style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="100.77999999999997" y="3958.05" width="60" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="riM_zDxXkj-kkfaJHS-f-913" value="128，32，32" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="940" y="3871" width="110" height="19" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
