@@ -744,10 +744,13 @@
           <mxGeometry x="415.04999999999995" y="3753.36" width="110" height="19" as="geometry" />
         </mxCell>
         <mxCell id="riM_zDxXkj-kkfaJHS-f-914" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;128，32，32&lt;/span&gt;&#xa;&#xa;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="434.67999999999995" y="3991.75" width="100" height="40" as="geometry" />
+          <mxGeometry x="894.0999999999999" y="3731.56" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="riM_zDxXkj-kkfaJHS-f-915" value="128，32，32" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="889" y="3853" width="121" height="17" as="geometry" />
+          <mxGeometry x="404.05" y="4010" width="121" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="riM_zDxXkj-kkfaJHS-f-916" value="1，32，32" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="980" y="3923" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
