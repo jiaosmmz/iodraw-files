@@ -1,26 +1,17 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
-  <diagram name="TimeEmb_SinBox" id="ZscP8AZZt3KwxLgpNXBT">
-    <mxGraphModel dx="5704" dy="3100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="TimeEmb_SinBox" id="YSOro9P1T5BP-AmSWNmj">
+    <mxGraphModel dx="1426" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="IABb6vSkhUmGQvhOWNt--5" value="" style="rounded=10;fill=#f3eaff;stroke=none" parent="1">
+        <mxCell id="mCb4uJq5CBhiHFrj3vwh-1" value="" style="rounded=10;fill=#f3eaff;stroke=none" parent="1">
           <mxGeometry x="8" y="8" width="244" height="144" as="geometry" />
         </mxCell>
-        <mxCell id="IABb6vSkhUmGQvhOWNt--6" value="" style="rounded=10;stroke=#b886d9;strokeWidth=5;fill=none" parent="1">
+        <mxCell id="mCb4uJq5CBhiHFrj3vwh-2" value="" style="rounded=10;stroke=#b886d9;strokeWidth=5;fill=none" parent="1">
           <mxGeometry x="8" y="8" width="244" height="144" as="geometry" />
         </mxCell>
-        <mxCell id="IABb6vSkhUmGQvhOWNt--7" value="M18,115 C50,20 90,20 70,22 C110,120 130,110 122,108 C140,60 160,80 152,72 C180,20 210,30 190,32 C220,120 240,100 238,112" style="stroke=black;strokeWidth=7;fill=none" parent="1">
+        <mxCell id="mCb4uJq5CBhiHFrj3vwh-3" value="M18,115 C50,20 90,20 70,22 C110,120 130,110 122,108 C140,60 160,80 152,72 C180,20 210,30 190,32 C220,120 240,100 238,112" style="stroke=black;strokeWidth=7;fill=none" parent="1">
           <mxGeometry x="18" y="22" width="220" height="93" as="geometry" />
-        </mxCell>
-        <mxCell id="IABb6vSkhUmGQvhOWNt--8" value="" style="rounded=10;fill=#f3eaff;stroke=none" parent="1">
-          <mxGeometry x="18" y="18" width="244" height="144" as="geometry" />
-        </mxCell>
-        <mxCell id="IABb6vSkhUmGQvhOWNt--9" value="" style="rounded=10;stroke=#b886d9;strokeWidth=5;fill=none" parent="1">
-          <mxGeometry x="18" y="18" width="244" height="144" as="geometry" />
-        </mxCell>
-        <mxCell id="IABb6vSkhUmGQvhOWNt--10" value="M18,115 C50,20 90,20 70,22 C110,120 130,110 122,108 C140,60 160,80 152,72 C180,20 210,30 190,32 C220,120 240,100 238,112" style="stroke=black;strokeWidth=7;fill=none" parent="1">
-          <mxGeometry x="28" y="32" width="220" height="93" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
