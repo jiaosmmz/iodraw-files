@@ -16,6 +16,9 @@
         <mxCell id="mCb4uJq5CBhiHFrj3vwh-4" value="&lt;span style=&quot;font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start; white-space: pre;&quot;&gt;flowchart TD&lt;br/&gt;    SIN[&quot;&amp;lt;div style=&#39;width:140px;height:95px;border:3px solid #b886d9;background:#f3eaff;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:52px&#39;&amp;gt;∿&amp;lt;/div&amp;gt;&quot;]&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-385" y="-12" width="1470" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="mCb4uJq5CBhiHFrj3vwh-5" value="&lt;div style=&quot;width:140px;height:95px;border:3px solid ﬂ°b886d9¶ßbackground:ﬂ°f3eaff¶ßborder-radius:10px;display:flex;align-items:center;justify-content:centerfont-size:52px&quot;&gt;∿&lt;/div&gt;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="60" width="259" height="172" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
