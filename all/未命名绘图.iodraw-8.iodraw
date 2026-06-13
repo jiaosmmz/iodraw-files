@@ -40,7 +40,7 @@
         <mxCell id="IABb6vSkhUmGQvhOWNt--17" value="Image(T2)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="210" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IABb6vSkhUmGQvhOWNt--18" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IABb6vSkhUmGQvhOWNt--18" value="GT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="300" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
