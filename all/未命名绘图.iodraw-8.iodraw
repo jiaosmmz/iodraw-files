@@ -37,8 +37,8 @@
         <mxCell id="IABb6vSkhUmGQvhOWNt--16" value="Image(T1)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="210" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IABb6vSkhUmGQvhOWNt--17" value="Image(T1)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="350" width="60" height="30" as="geometry" />
+        <mxCell id="IABb6vSkhUmGQvhOWNt--17" value="Image(T2)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="210" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
