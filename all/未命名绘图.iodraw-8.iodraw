@@ -8,7 +8,7 @@
           <mxGeometry x="30" y="308" width="700" height="30" as="geometry" />
         </mxCell>
         <mxCell id="roRW_ossg6loPK3vuV5A-2" value="$$\mathcal{L}_{focal} = -\frac{1}{HW}\sum_{h,w}\left[\alpha(1-P_{hw})^{\gamma}Y_{hw}\log P_{hw} + (1-\alpha)P_{hw}^{\gamma}(1-Y_{hw})\log(1-P_{hw})\right]$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-380" y="408" width="880" height="30" as="geometry" />
+          <mxGeometry x="-20" y="390" width="880" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
