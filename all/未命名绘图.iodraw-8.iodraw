@@ -280,7 +280,7 @@
             <mxPoint x="523.34" y="844.1999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mGyPrk0-K7fJ7rT-RJ7K-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.017;entryY=0.647;entryDx=0;entryDy=0;entryPerimeter=0;endSize=2;" edge="1" parent="1" source="9QbVpL5gvv8mJpKTWKD9-41" target="mGyPrk0-K7fJ7rT-RJ7K-5">
+        <mxCell id="mGyPrk0-K7fJ7rT-RJ7K-41" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.017;entryY=0.647;entryDx=0;entryDy=0;entryPerimeter=0;endSize=2;curved=0;strokeColor=#006633;" edge="1" parent="1" source="9QbVpL5gvv8mJpKTWKD9-41" target="mGyPrk0-K7fJ7rT-RJ7K-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
