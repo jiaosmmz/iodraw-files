@@ -139,7 +139,7 @@
           <mxGeometry x="513.8" y="581.75" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mGyPrk0-K7fJ7rT-RJ7K-4" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="710" y="620" width="80" height="70" as="geometry" />
+          <mxGeometry x="710" y="610" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="mGyPrk0-K7fJ7rT-RJ7K-5" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#F6F9F0;strokeColor=light-dark(#B9E0A5,#D7817E);container=0;" vertex="1" parent="mGyPrk0-K7fJ7rT-RJ7K-4">
           <mxGeometry width="80" height="69.99999999999997" as="geometry" />
