@@ -168,42 +168,6 @@
             <mxPoint x="50.793333333333365" y="42.04787493893503" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mGyPrk0-K7fJ7rT-RJ7K-23" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1120" y="540" width="82.81" height="65.4" as="geometry" />
-        </mxCell>
-        <mxCell id="mGyPrk0-K7fJ7rT-RJ7K-14" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#FFF0EA;strokeColor=light-dark(#d5211a, #d7817e);container=0;" vertex="1" parent="mGyPrk0-K7fJ7rT-RJ7K-23">
-          <mxGeometry width="82.81" height="65.39999999999998" as="geometry" />
-        </mxCell>
-        <mxCell id="mGyPrk0-K7fJ7rT-RJ7K-15" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="mGyPrk0-K7fJ7rT-RJ7K-23">
-          <mxGeometry x="-11.84" y="22.95" width="61.84" height="22.8" as="geometry" />
-        </mxCell>
-        <mxCell id="mGyPrk0-K7fJ7rT-RJ7K-16" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;size=11;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rounded=1;container=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#7EA6E0;" vertex="1" parent="mGyPrk0-K7fJ7rT-RJ7K-23">
-          <mxGeometry x="-5.251534166666597" y="31.335769418661425" width="41.405" height="10.34514899853444" as="geometry" />
-        </mxCell>
-        <mxCell id="mGyPrk0-K7fJ7rT-RJ7K-17" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;size=11;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rounded=1;container=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#7EA6E0;" vertex="1" parent="mGyPrk0-K7fJ7rT-RJ7K-23">
-          <mxGeometry x="5.327443333333353" y="30.760683927699063" width="32.16478416666667" height="10.34514899853444" as="geometry" />
-        </mxCell>
-        <mxCell id="mGyPrk0-K7fJ7rT-RJ7K-18" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-89;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="mGyPrk0-K7fJ7rT-RJ7K-23">
-          <mxGeometry x="35.194250000000004" y="21.57209574987786" width="62.1075" height="23.374030288226667" as="geometry" />
-        </mxCell>
-        <mxCell id="mGyPrk0-K7fJ7rT-RJ7K-19" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;size=11;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rounded=1;container=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#7EA6E0;" vertex="1" parent="mGyPrk0-K7fJ7rT-RJ7K-23">
-          <mxGeometry x="47.27070833333333" y="28.038612603810517" width="32.16478416666667" height="10.34514899853444" as="geometry" />
-        </mxCell>
-        <mxCell id="mGyPrk0-K7fJ7rT-RJ7K-20" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;size=11;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rounded=1;container=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=light-dark(#7EA6E0,#436697);" vertex="1" parent="mGyPrk0-K7fJ7rT-RJ7K-23">
-          <mxGeometry x="49.19949125000006" y="26.118466047874936" width="41.405" height="10.34514899853444" as="geometry" />
-        </mxCell>
-        <mxCell id="mGyPrk0-K7fJ7rT-RJ7K-21" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;strokeColor=#004C99;endSize=2;" edge="1" parent="mGyPrk0-K7fJ7rT-RJ7K-23">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="31.874949166666706" y="26.537000488519766" as="sourcePoint" />
-            <mxPoint x="52.57744916666671" y="26.115271128480632" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mGyPrk0-K7fJ7rT-RJ7K-22" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;strokeColor=#004C99;endSize=2;" edge="1" parent="mGyPrk0-K7fJ7rT-RJ7K-23">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="31.874949166666706" y="39.706458231558365" as="sourcePoint" />
-            <mxPoint x="52.57744916666671" y="39.284728871519306" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mGyPrk0-K7fJ7rT-RJ7K-24" value="" style="group;fillColor=#FFFCFB;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="710" y="480" width="80" height="70" as="geometry" />
         </mxCell>
@@ -263,7 +227,7 @@
             <mxPoint x="559.4" y="597.9899999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mGyPrk0-K7fJ7rT-RJ7K-44" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.008;entryY=0.595;entryDx=0;entryDy=0;entryPerimeter=0;endSize=2;curved=0;" edge="1" parent="1" source="9QbVpL5gvv8mJpKTWKD9-52" target="mGyPrk0-K7fJ7rT-RJ7K-25">
+        <mxCell id="mGyPrk0-K7fJ7rT-RJ7K-44" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.008;entryY=0.595;entryDx=0;entryDy=0;entryPerimeter=0;endSize=2;curved=0;strokeColor=#CC0000;" edge="1" parent="1" source="9QbVpL5gvv8mJpKTWKD9-52" target="mGyPrk0-K7fJ7rT-RJ7K-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mGyPrk0-K7fJ7rT-RJ7K-45" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 9px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;$$T_1$$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
