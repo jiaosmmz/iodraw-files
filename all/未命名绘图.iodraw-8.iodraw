@@ -104,7 +104,7 @@
         </mxCell>
         <mxCell id="mGyPrk0-K7fJ7rT-RJ7K-1" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9QbVpL5gvv8mJpKTWKD9-45">
           <mxGeometry x="-0.0858" y="-2" relative="1" as="geometry">
-            <mxPoint x="-140" y="15" as="offset" />
+            <mxPoint x="-293" y="-210" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9QbVpL5gvv8mJpKTWKD9-47" value="&lt;span style=&quot;color: rgb(0, 102, 51);&quot;&gt;&lt;b&gt;$$\checkmark$$&lt;/b&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=-30;" parent="1" vertex="1">
