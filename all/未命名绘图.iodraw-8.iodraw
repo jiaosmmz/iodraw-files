@@ -134,7 +134,7 @@
             <mxPoint x="533.63" y="677.66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9QbVpL5gvv8mJpKTWKD9-55" value="style &#xa;inconsistency" style="text;whiteSpace=wrap;fontColor=light-dark(#CC0000,#EDEDED);fontSize=8;fontStyle=1;align=center;" parent="1" vertex="1">
+        <mxCell id="9QbVpL5gvv8mJpKTWKD9-55" value="style &#xa;inconsistency" style="text;whiteSpace=wrap;fontColor=light-dark(#CC0000,#EDEDED);fontSize=9;fontStyle=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="573.28" y="515.8" width="43.28" height="32.83" as="geometry" />
         </mxCell>
         <mxCell id="9QbVpL5gvv8mJpKTWKD9-56" value="style &#xa;consistency" style="text;whiteSpace=wrap;fontColor=light-dark(#006633,#EDEDED);fontSize=8;fontStyle=1;align=center;" parent="1" vertex="1">
