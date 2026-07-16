@@ -126,8 +126,8 @@
         <mxCell id="9QbVpL5gvv8mJpKTWKD9-53" value="&lt;font size=&quot;1&quot; style=&quot;color: light-dark(rgb(0, 102, 204), rgb(237, 237, 237));&quot;&gt;&lt;b style=&quot;font-size: 8px;&quot;&gt;Transfer&lt;/b&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=-45;" parent="1" vertex="1">
           <mxGeometry x="533.8" y="626.05" width="32.81" height="16.29" as="geometry" />
         </mxCell>
-        <mxCell id="9QbVpL5gvv8mJpKTWKD9-55" value="style &#xa;inconsistency" style="text;whiteSpace=wrap;fontColor=light-dark(#CC0000,#EDEDED);fontSize=10;fontStyle=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="590" y="507.16999999999996" width="43.28" height="32.83" as="geometry" />
+        <mxCell id="9QbVpL5gvv8mJpKTWKD9-55" value="style &#xa;inconsistency" style="text;whiteSpace=wrap;fontColor=light-dark(#CC0000,#EDEDED);fontSize=12;fontStyle=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="593.28" y="507.17" width="70" height="32.83" as="geometry" />
         </mxCell>
         <mxCell id="9QbVpL5gvv8mJpKTWKD9-56" value="style &#xa;consistency" style="text;whiteSpace=wrap;fontColor=light-dark(#006633,#EDEDED);fontSize=10;fontStyle=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="573.28" y="634.41" width="60" height="40" as="geometry" />
