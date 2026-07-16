@@ -239,7 +239,7 @@
         <mxCell id="mGyPrk0-K7fJ7rT-RJ7K-51" value="&lt;font color=&quot;#004c99&quot; size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 8px;&quot;&gt;Feature Alignment&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;color: rgb(0, 102, 204);&quot;&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="476.65" y="576.2900000000001" width="106.37" height="17.55" as="geometry" />
         </mxCell>
-        <mxCell id="28ctbXuBZdeAkaMZcTzG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.675;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9QbVpL5gvv8mJpKTWKD9-52" target="mGyPrk0-K7fJ7rT-RJ7K-25">
+        <mxCell id="28ctbXuBZdeAkaMZcTzG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.675;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;strokeColor=#CC0000;" edge="1" parent="1" source="9QbVpL5gvv8mJpKTWKD9-52" target="mGyPrk0-K7fJ7rT-RJ7K-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="690" y="587" />
