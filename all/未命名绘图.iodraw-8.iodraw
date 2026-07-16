@@ -227,16 +227,6 @@
         <mxCell id="mGyPrk0-K7fJ7rT-RJ7K-41" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.017;entryY=0.647;entryDx=0;entryDy=0;entryPerimeter=0;endSize=2;curved=0;strokeColor=#006633;" parent="1" source="9QbVpL5gvv8mJpKTWKD9-41" target="mGyPrk0-K7fJ7rT-RJ7K-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mGyPrk0-K7fJ7rT-RJ7K-44" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.008;entryY=0.595;entryDx=0;entryDy=0;entryPerimeter=0;endSize=2;curved=0;strokeColor=#CC0000;" parent="1" source="9QbVpL5gvv8mJpKTWKD9-52" target="mGyPrk0-K7fJ7rT-RJ7K-25" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="704" y="587" />
-              <mxPoint x="704" y="530" />
-              <mxPoint x="700" y="530" />
-              <mxPoint x="700" y="522" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mGyPrk0-K7fJ7rT-RJ7K-45" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 9px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;$$T_1$$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="503.34000000000003" y="520" width="20" height="40" as="geometry" />
         </mxCell>
@@ -248,6 +238,14 @@
         </mxCell>
         <mxCell id="mGyPrk0-K7fJ7rT-RJ7K-51" value="&lt;font color=&quot;#004c99&quot; size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 8px;&quot;&gt;Feature Alignment&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;color: rgb(0, 102, 204);&quot;&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="476.65" y="576.2900000000001" width="106.37" height="17.55" as="geometry" />
+        </mxCell>
+        <mxCell id="28ctbXuBZdeAkaMZcTzG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.675;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9QbVpL5gvv8mJpKTWKD9-52" target="mGyPrk0-K7fJ7rT-RJ7K-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="587" />
+              <mxPoint x="690" y="527" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
