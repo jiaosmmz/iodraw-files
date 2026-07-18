@@ -277,8 +277,14 @@
         <mxCell id="28ctbXuBZdeAkaMZcTzG-16" value="&lt;span style=&quot;font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 9px; text-align: start; white-space: pre;&quot;&gt;$$T_2$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFCFB;" vertex="1" parent="1">
           <mxGeometry x="610" y="610" width="20" height="13.36" as="geometry" />
         </mxCell>
-        <mxCell id="28ctbXuBZdeAkaMZcTzG-18" value="&lt;span style=&quot;font-size: 9px; white-space: nowrap;&quot;&gt;$$F(Z)$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFCFB;" vertex="1" parent="1">
-          <mxGeometry x="491.77" y="718.21" width="41.77" height="13.36" as="geometry" />
+        <mxCell id="28ctbXuBZdeAkaMZcTzG-18" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFCFB;" vertex="1" parent="1">
+          <mxGeometry x="362.39" y="689.84" width="18.23" height="13.36" as="geometry" />
+        </mxCell>
+        <mxCell id="28ctbXuBZdeAkaMZcTzG-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="384" y="659" width="26" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="28ctbXuBZdeAkaMZcTzG-20" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 9px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;$$F(Z)$$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="384" y="644.34" width="26" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
