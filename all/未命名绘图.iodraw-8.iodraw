@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="pJAPk5Kns2Gkr-Tmo7ow">
-    <mxGraphModel dx="679" dy="369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="475" dy="258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,8 +52,8 @@
         <mxCell id="9QbVpL5gvv8mJpKTWKD9-20" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;$$F(Z)$$&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="513.13" y="635.4300000000001" width="33.42" height="26.04" as="geometry" />
         </mxCell>
-        <mxCell id="9QbVpL5gvv8mJpKTWKD9-22" value="&lt;font color=&quot;#006633&quot; style=&quot;font-size: 11px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;(b) Feature-Aligned Deep Network Paradigm For RSCD&lt;/font&gt;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;container=0;" parent="1" vertex="1">
-          <mxGeometry x="635.7800000000001" y="696.41" width="274.22" height="35.16" as="geometry" />
+        <mxCell id="9QbVpL5gvv8mJpKTWKD9-22" value="&lt;font color=&quot;#006633&quot; style=&quot;font-size: 10px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;(b) Feature-Aligned Deep Network Paradigm For RSCD&lt;/font&gt;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;container=0;" parent="1" vertex="1">
+          <mxGeometry x="635.7800000000001" y="690" width="274.22" height="35.16" as="geometry" />
         </mxCell>
         <mxCell id="9QbVpL5gvv8mJpKTWKD9-31" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#F6F9F0;strokeColor=light-dark(#B9E0A5,#D7817E);container=0;" parent="1" vertex="1">
           <mxGeometry x="797.79" y="596.27" width="102.21" height="93.73" as="geometry" />
@@ -266,7 +266,10 @@
           <mxGeometry x="180" y="447.39" width="16" height="16.26" as="geometry" />
         </mxCell>
         <mxCell id="mGyPrk0-K7fJ7rT-RJ7K-45" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 9px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;$$T_1$$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="431.65999999999997" width="20" height="28.26" as="geometry" />
+          <mxGeometry x="320" y="441.74" width="20" height="28.26" as="geometry" />
+        </mxCell>
+        <mxCell id="28ctbXuBZdeAkaMZcTzG-12" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=#FFFCFB;" vertex="1" parent="1">
+          <mxGeometry x="357" y="452" width="23" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
