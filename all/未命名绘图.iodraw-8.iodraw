@@ -262,14 +262,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="28ctbXuBZdeAkaMZcTzG-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="28ctbXuBZdeAkaMZcTzG-9" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFCFB;" vertex="1" parent="1">
           <mxGeometry x="180" y="447.39" width="16" height="16.26" as="geometry" />
         </mxCell>
-        <mxCell id="mGyPrk0-K7fJ7rT-RJ7K-45" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 9px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;$$T_1$$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="441.74" width="20" height="28.26" as="geometry" />
-        </mxCell>
-        <mxCell id="28ctbXuBZdeAkaMZcTzG-12" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=#FFFCFB;" vertex="1" parent="1">
-          <mxGeometry x="357" y="452" width="23" height="18" as="geometry" />
+        <mxCell id="28ctbXuBZdeAkaMZcTzG-12" value="&lt;span style=&quot;font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 9px; text-align: start; white-space: pre;&quot;&gt;$$T_1$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=#FFFCFB;strokeColor=#FFFCFB;" vertex="1" parent="1">
+          <mxGeometry x="486.85" y="515.74" width="23" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
