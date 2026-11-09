@@ -643,9 +643,6 @@
         <mxCell id="FR4mcXKeicFzslaixkGZ-67" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=0.5;fillColor=#fda150;strokeColor=#f87f24;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="1190.0799999999997" y="633.2516909267347" width="7.252789907811697" height="7.252789907811697" as="geometry" />
         </mxCell>
-        <mxCell id="FR4mcXKeicFzslaixkGZ-69" value="" style="shape=display;whiteSpace=wrap;html=1;strokeWidth=0.5;size=0.030000000000010612;fillColor=#fd9c4c;strokeColor=#f87f24;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
-          <mxGeometry x="1215.61" y="641.42" width="6" height="12" as="geometry" />
-        </mxCell>
         <mxCell id="FR4mcXKeicFzslaixkGZ-70" value="" style="shape=display;whiteSpace=wrap;html=1;strokeWidth=0.5;size=0;fillColor=#fd9c4c;strokeColor=#f87f24;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="1290.6399999999999" y="695.65" width="6" height="12" as="geometry" />
         </mxCell>
@@ -720,7 +717,7 @@
           <mxGeometry x="1236.54" y="549.2299999999999" width="7" height="12" as="geometry" />
         </mxCell>
         <mxCell id="FR4mcXKeicFzslaixkGZ-102" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeWidth=0.5;fillColor=#fc9a4e;strokeColor=#f8802f;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1262.17" y="530.59" width="12" height="10" as="geometry" />
+          <mxGeometry x="1206.02" y="655.24" width="12" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
