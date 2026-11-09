@@ -714,7 +714,10 @@
           <mxGeometry x="1238" y="370" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FR4mcXKeicFzslaixkGZ-93" value="&lt;font style=&quot;font-size: 7px;&quot; face=&quot;Times New Roman&quot;&gt;$$X_2\sim N(\mu(Z) + \Delta, $$&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot; face=&quot;Times New Roman&quot;&gt;$$\Sigma(Z))$$&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1549.9999999999998" y="649.0300000000002" width="120" height="40" as="geometry" />
+          <mxGeometry x="1201.62" y="631.4900000000002" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FR4mcXKeicFzslaixkGZ-96" value="$$X_2 \sim N(\mu(Z) + \Delta, \sigma^2(Z))$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1355" y="578" width="270" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
