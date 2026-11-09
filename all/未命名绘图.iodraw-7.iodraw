@@ -799,7 +799,7 @@
         <mxCell id="FR4mcXKeicFzslaixkGZ-155" value="&lt;font color=&quot;#006434&quot; style=&quot;font-size: 10px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Gaussian&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-45;" vertex="1" parent="1">
           <mxGeometry x="1173.05" y="616.29" width="45.26" height="20.01" as="geometry" />
         </mxCell>
-        <mxCell id="FR4mcXKeicFzslaixkGZ-157" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FR4mcXKeicFzslaixkGZ-157" value="&lt;font color=&quot;#ce1915&quot; style=&quot;font-size: 9px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Bad&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1490" y="517" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
