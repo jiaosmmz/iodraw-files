@@ -607,7 +607,7 @@
           <mxGeometry x="1246.7900000000004" y="699.9399999999998" width="7" height="12" as="geometry" />
         </mxCell>
         <mxCell id="FR4mcXKeicFzslaixkGZ-91" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0.4;" vertex="1" parent="1">
-          <mxGeometry x="1226.1" y="628.64" width="73.55" height="30.28" as="geometry" />
+          <mxGeometry x="1226.1" y="628.64" width="73.9" height="30.28" as="geometry" />
         </mxCell>
         <mxCell id="FR4mcXKeicFzslaixkGZ-96" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 11px;&quot;&gt;$$X_2 \sim N(\mu(Z) + \Delta, $$&lt;/font&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font face=&quot;Sma0j5TZuLVk0ERl0b5E&quot; style=&quot;font-size: 11px;&quot;&gt;$$\sigma^2(Z))$$&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1560.1700000000003" y="447.2199999999999" width="180" height="40" as="geometry" />
