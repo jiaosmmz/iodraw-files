@@ -705,7 +705,7 @@
           <mxGeometry x="1500" y="628.6400000000002" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FR4mcXKeicFzslaixkGZ-96" value="&lt;font style=&quot;font-size: 8px;&quot; face=&quot;Times New Roman&quot;&gt;$$X_2 \sim N(\mu(Z) + \Delta, \sigma^2(Z))$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1171.83" y="632.1399999999999" width="180" height="30" as="geometry" />
+          <mxGeometry x="1264.83" y="580.3999999999999" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FR4mcXKeicFzslaixkGZ-97" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeWidth=0.5;fillColor=#fc9a4e;strokeColor=#f8802f;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="1187.71" y="467.78" width="12" height="10" as="geometry" />
@@ -718,6 +718,9 @@
         </mxCell>
         <mxCell id="FR4mcXKeicFzslaixkGZ-100" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeWidth=0.5;fillColor=#fc9a4e;strokeColor=#f8802f;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="1279.64" y="550.0799999999999" width="12" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="FR4mcXKeicFzslaixkGZ-101" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=0.5;fillColor=#fc9948;strokeColor=#f87f24;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="1236.54" y="549.2299999999999" width="7" height="12" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
