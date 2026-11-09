@@ -750,8 +750,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FR4mcXKeicFzslaixkGZ-133" value="Pseudo Change" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1245" y="417" width="115" height="13" as="geometry" />
+        <mxCell id="FR4mcXKeicFzslaixkGZ-133" value="&lt;font style=&quot;font-size: 9px;&quot; face=&quot;Times New Roman&quot;&gt;Pseudo Change&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1266.59" y="417" width="115" height="13" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
