@@ -790,11 +790,11 @@
         <mxCell id="FR4mcXKeicFzslaixkGZ-149" value="&lt;font size=&quot;1&quot; color=&quot;#dc221c&quot; style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;Unet&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-45;" vertex="1" parent="1">
           <mxGeometry x="1273.83" y="529" width="40.51" height="20.6" as="geometry" />
         </mxCell>
-        <mxCell id="FR4mcXKeicFzslaixkGZ-152" value="&lt;b&gt;&lt;font color=&quot;#16601e&quot; face=&quot;Times New Roman&quot;&gt;C&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+        <mxCell id="FR4mcXKeicFzslaixkGZ-152" value="&lt;b&gt;&lt;font style=&quot;font-size: 11px;&quot; color=&quot;#16601e&quot; face=&quot;Times New Roman&quot;&gt;C&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="1190.1099999999997" y="694.9999999999999" width="13.15" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FR4mcXKeicFzslaixkGZ-154" value="&lt;b&gt;&lt;font style=&quot;font-size: 11px;&quot; color=&quot;#19601d&quot; face=&quot;Times New Roman&quot;&gt;Unet&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-45;" vertex="1" parent="1">
-          <mxGeometry x="1299.08" y="702.45" width="60" height="30" as="geometry" />
+        <mxCell id="FR4mcXKeicFzslaixkGZ-154" value="&lt;b&gt;&lt;font style=&quot;font-size: 11px;&quot; color=&quot;#19601d&quot; face=&quot;Times New Roman&quot;&gt;Unet&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-60;" vertex="1" parent="1">
+          <mxGeometry x="1297.08" y="703.34" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
