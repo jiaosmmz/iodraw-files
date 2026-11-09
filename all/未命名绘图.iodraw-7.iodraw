@@ -802,8 +802,8 @@
         <mxCell id="FR4mcXKeicFzslaixkGZ-157" value="&lt;font color=&quot;#ce1915&quot; style=&quot;font-size: 9px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Bad&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1396.55" y="530.38" width="23.42" height="21.67" as="geometry" />
         </mxCell>
-        <mxCell id="FR4mcXKeicFzslaixkGZ-161" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1178" y="776" width="120" height="60" as="geometry" />
+        <mxCell id="FR4mcXKeicFzslaixkGZ-161" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0.4;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1178" y="776" width="52" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
