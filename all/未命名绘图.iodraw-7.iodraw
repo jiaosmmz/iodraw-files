@@ -373,7 +373,7 @@
           <mxGeometry x="1241.1800000000005" y="728.2199999999998" width="7" height="12" as="geometry" />
         </mxCell>
         <mxCell id="FR4mcXKeicFzslaixkGZ-91" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0.4;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1221.84" y="659.34" width="71.89" height="30.66" as="geometry" />
+          <mxGeometry x="1221.84" y="659.34" width="68.16" height="20.66" as="geometry" />
         </mxCell>
         <mxCell id="FR4mcXKeicFzslaixkGZ-96" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 11px;&quot;&gt;$$X_2 \sim N(\mu(Z) + \Delta, $$&lt;/font&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font face=&quot;Sma0j5TZuLVk0ERl0b5E&quot; style=&quot;font-size: 11px;&quot;&gt;$$\sigma^2(Z))$$&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1560.1700000000003" y="447.2199999999999" width="180" height="40" as="geometry" />
