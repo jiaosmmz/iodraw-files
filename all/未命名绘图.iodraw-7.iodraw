@@ -787,8 +787,8 @@
         <mxCell id="FR4mcXKeicFzslaixkGZ-147" value="&lt;b&gt;&lt;font color=&quot;#db211b&quot; style=&quot;font-size: 11px;&quot; face=&quot;Times New Roman&quot;&gt;C&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1158.0499999999997" y="521.9" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FR4mcXKeicFzslaixkGZ-149" value="&lt;font color=&quot;#dc221c&quot; style=&quot;font-size: 11px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Unet&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1300.06" y="552.55" width="40.51" height="20.6" as="geometry" />
+        <mxCell id="FR4mcXKeicFzslaixkGZ-149" value="&lt;font color=&quot;#dc221c&quot; style=&quot;font-size: 11px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Unet&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-45;" vertex="1" parent="1">
+          <mxGeometry x="1273.82" y="528.09" width="40.51" height="20.6" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
