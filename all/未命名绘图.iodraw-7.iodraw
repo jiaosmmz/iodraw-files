@@ -23,7 +23,7 @@
           <mxGeometry x="551.3" y="1010" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YBnfHl1uSrxLcsdd2OhN-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef2e6;strokeColor=#e7ba9b;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="1041.09" y="432.48" width="408.91" height="167.52" as="geometry" />
+          <mxGeometry x="1041.09" y="432.48" width="408.91" height="157.52" as="geometry" />
         </mxCell>
         <mxCell id="FR4mcXKeicFzslaixkGZ-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endSize=4;" edge="1" parent="1" source="YBnfHl1uSrxLcsdd2OhN-2" target="YBnfHl1uSrxLcsdd2OhN-27">
           <mxGeometry relative="1" as="geometry">
@@ -724,13 +724,16 @@
           <mxGeometry x="1088.52" y="729.6199999999998" width="7" height="12" as="geometry" />
         </mxCell>
         <mxCell id="FR4mcXKeicFzslaixkGZ-125" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;(a) Deterministic Modeling for RSCD&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1139.25" y="580" width="220" height="20" as="geometry" />
+          <mxGeometry x="1135.38" y="574.28" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FR4mcXKeicFzslaixkGZ-126" value="&lt;b style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;(b) Probabilistic Observation Modeling for RSCD&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1116.75" y="800" width="300" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FR4mcXKeicFzslaixkGZ-127" value="(b) Probabilistic Observation Modeling for RSCD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1288" y="890" width="332" height="10" as="geometry" />
+        <mxCell id="FR4mcXKeicFzslaixkGZ-127" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;(b) Probabilistic Observation Modeling for RSCD&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1088.87" y="752.6500000000001" width="332" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="FR4mcXKeicFzslaixkGZ-128" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e7f2fd;strokeColor=#adc6e4;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="1041.09" y="620" width="418.91" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
