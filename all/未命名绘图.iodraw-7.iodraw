@@ -689,12 +689,6 @@
         <mxCell id="FR4mcXKeicFzslaixkGZ-79" value="&lt;font color=&quot;#f87f24&quot; face=&quot;Times New Roman&quot;&gt;(&amp;nbsp; &amp;nbsp; &amp;nbsp; )&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1184.83" y="653.9800000000001" width="61" height="8.16" as="geometry" />
         </mxCell>
-        <mxCell id="FR4mcXKeicFzslaixkGZ-82" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1138.19" y="774.73" as="sourcePoint" />
-            <mxPoint x="1191.5700000000002" y="723.75" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="FR4mcXKeicFzslaixkGZ-83" value="" style="endArrow=none;html=1;rounded=0;exitX=0.098;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FR4mcXKeicFzslaixkGZ-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1199.79" y="693.26" as="sourcePoint" />
