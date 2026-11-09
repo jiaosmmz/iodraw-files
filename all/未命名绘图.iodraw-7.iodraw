@@ -19,7 +19,7 @@
         <mxCell id="up7Ut_2ZonqZk7R9EJ-n-5" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 9px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;$$T_2$$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="551.3" y="1010" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YBnfHl1uSrxLcsdd2OhN-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef2e6;strokeColor=#e7ba9b;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="YBnfHl1uSrxLcsdd2OhN-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef2e6;strokeColor=#e7ba9b;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="1041.09" y="434.96" width="538.57" height="145.04" as="geometry" />
         </mxCell>
         <mxCell id="YBnfHl1uSrxLcsdd2OhN-2" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=8;rotation=90;fillColor=#fad9d5;strokeColor=#b85450;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
@@ -303,10 +303,10 @@
           <mxGeometry x="1509.9999999999998" y="670" width="55.71" height="55.71" as="geometry" />
         </mxCell>
         <mxCell id="YBnfHl1uSrxLcsdd2OhN-82" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=8;rotation=-90;fillColor=#fad9d5;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="840.1699999999998" y="491.88" width="41.83" height="24.09" as="geometry" />
+          <mxGeometry x="1319.9999999999998" y="490.29" width="41.83" height="24.09" as="geometry" />
         </mxCell>
         <mxCell id="YBnfHl1uSrxLcsdd2OhN-83" value="&lt;font face=&quot;Times New Roman&quot;&gt;D&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="852.5799999999999" y="487.66" width="17" height="30" as="geometry" />
+          <mxGeometry x="1332.4099999999999" y="486.07000000000005" width="17" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
