@@ -823,8 +823,8 @@
         <mxCell id="FR4mcXKeicFzslaixkGZ-63" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=0.5;fillColor=#fd9e50;strokeColor=#f87f24;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="1182.8600000000001" y="673.7777074235808" width="6.282729257641882" height="6.282729257641882" as="geometry" />
         </mxCell>
-        <mxCell id="FR4mcXKeicFzslaixkGZ-175" value="" style="ellipse;whiteSpace=wrap;html=1;rotation=-30;dashed=1;strokeWidth=0.5;strokeColor=#2D7600;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1272.7499999999998" y="706.77" width="13.92" height="31.9" as="geometry" />
+        <mxCell id="FR4mcXKeicFzslaixkGZ-175" value="" style="ellipse;whiteSpace=wrap;html=1;rotation=-30;dashed=1;strokeWidth=1;strokeColor=#2D7600;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1272.4899999999998" y="708.11" width="13.92" height="31.9" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
