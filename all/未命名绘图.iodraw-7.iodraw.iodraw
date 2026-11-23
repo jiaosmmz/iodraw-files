@@ -1505,9 +1505,6 @@
         <mxCell id="KGYbSAg6BSP5IO7GAI9m-267" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Type 3&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="1260.4600000000003" y="410.86000000000007" width="38.24" height="18.7" as="geometry" />
         </mxCell>
-        <mxCell id="KGYbSAg6BSP5IO7GAI9m-268" value="" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#FF8000;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1312.6100000000004" y="425.17000000000013" width="12.46" height="11.13" as="geometry" />
-        </mxCell>
         <mxCell id="KGYbSAg6BSP5IO7GAI9m-270" value="&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="1264.0500000000002" y="429.4500000000001" width="30" height="13.92" as="geometry" />
         </mxCell>
