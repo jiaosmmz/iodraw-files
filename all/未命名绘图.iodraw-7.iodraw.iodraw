@@ -1509,13 +1509,10 @@
         <mxCell id="KGYbSAg6BSP5IO7GAI9m-216" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeWidth=0.5;fillColor=#fc9a4e;strokeColor=#f8802f;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="783.35" y="532.1599999999999" width="12" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="KGYbSAg6BSP5IO7GAI9m-157" value="" style="endArrow=classic;html=1;rounded=0;endSize=3;dashed=1;fillColor=#fa6800;strokeColor=#C73500;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
+        <mxCell id="KGYbSAg6BSP5IO7GAI9m-218" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="800" y="566" as="sourcePoint" />
-            <mxPoint x="795.92" y="586.97" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="795.8899999999998" y="566.1800000000001" />
-            </Array>
+            <mxPoint x="750" y="520" as="sourcePoint" />
+            <mxPoint x="800" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
