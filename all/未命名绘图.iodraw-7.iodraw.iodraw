@@ -1323,12 +1323,6 @@
             <mxPoint x="714.95" y="647.03" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KGYbSAg6BSP5IO7GAI9m-38" value="" style="endArrow=none;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;exitX=0.963;exitY=0.686;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KGYbSAg6BSP5IO7GAI9m-36">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="724.53" y="716.4599999999999" as="sourcePoint" />
-            <mxPoint x="662.47" y="676.4599999999999" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="KGYbSAg6BSP5IO7GAI9m-39" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=0.5;fillColor=#fd9e50;strokeColor=#f87f24;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="659.7700000000002" y="705.4299999999998" width="6.93" height="6.93" as="geometry" />
         </mxCell>
