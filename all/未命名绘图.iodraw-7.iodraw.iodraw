@@ -1294,12 +1294,8 @@
         </mxCell>
         <mxCell id="KGYbSAg6BSP5IO7GAI9m-131" value="" style="endArrow=classic;html=1;rounded=0;endSize=2;edgeStyle=orthogonalEdgeStyle;curved=1;fillColor=#e51400;strokeColor=#B20000;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="776.0399999999997" y="474.98999999999995" as="sourcePoint" />
-            <mxPoint x="758.0599999999995" y="490.28" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="776" y="476" />
-              <mxPoint x="758" y="476" />
-            </Array>
+            <mxPoint x="748.1299999999998" y="434.25999999999993" as="sourcePoint" />
+            <mxPoint x="730.1499999999995" y="449.54999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KGYbSAg6BSP5IO7GAI9m-132" value="" style="endArrow=classic;html=1;rounded=0;endSize=2;curved=1;fillColor=#e51400;strokeColor=#B20000;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
