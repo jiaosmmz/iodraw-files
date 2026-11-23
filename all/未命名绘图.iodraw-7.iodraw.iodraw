@@ -843,7 +843,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KGYbSAg6BSP5IO7GAI9m-5" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=8;rotation=90;fillColor=#FAD9D5;strokeColor=#b85450;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="KGYbSAg6BSP5IO7GAI9m-5" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=8;rotation=90;fillColor=#dae8fc;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="526.3399999999999" y="483.12999999999994" width="41.83" height="24.09" as="geometry" />
         </mxCell>
         <mxCell id="KGYbSAg6BSP5IO7GAI9m-6" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
