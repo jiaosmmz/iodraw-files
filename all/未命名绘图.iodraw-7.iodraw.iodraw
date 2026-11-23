@@ -1400,20 +1400,8 @@
         <mxCell id="KGYbSAg6BSP5IO7GAI9m-108" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=0.5;fillColor=#2580d4;strokeColor=#0064c4;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="659.3399999999999" y="497.43999999999994" width="6.93" height="6.93" as="geometry" />
         </mxCell>
-        <mxCell id="KGYbSAg6BSP5IO7GAI9m-110" value="" style="endArrow=none;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;entryX=0.962;entryY=0.315;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="KGYbSAg6BSP5IO7GAI9m-100">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="658.3699999999999" y="512.73" as="sourcePoint" />
-            <mxPoint x="710.79" y="483.29999999999995" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="KGYbSAg6BSP5IO7GAI9m-113" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=0.5;fillColor=#fd9e50;strokeColor=#f87f24;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="663.7900000000003" y="382.5300000000001" width="6.93" height="6.93" as="geometry" />
-        </mxCell>
-        <mxCell id="KGYbSAg6BSP5IO7GAI9m-116" value="" style="endArrow=none;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;exitX=0.943;exitY=0.72;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KGYbSAg6BSP5IO7GAI9m-100">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="720.3699999999999" y="552.73" as="sourcePoint" />
-            <mxPoint x="658.31" y="512.73" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="KGYbSAg6BSP5IO7GAI9m-117" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=0.5;fillColor=#fd9e50;strokeColor=#f87f24;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="641.8900000000001" y="472.25000000000006" width="6.93" height="6.93" as="geometry" />
@@ -1436,22 +1424,6 @@
         <mxCell id="KGYbSAg6BSP5IO7GAI9m-124" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=0.5;fillColor=#fda150;strokeColor=#f87f24;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="625.6099999999998" y="504.37" width="8" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="KGYbSAg6BSP5IO7GAI9m-126" value="" style="endArrow=none;html=1;rounded=0;entryX=0.007;entryY=0.445;entryDx=0;entryDy=0;entryPerimeter=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" target="KGYbSAg6BSP5IO7GAI9m-100">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="658.3699999999999" y="512.73" as="sourcePoint" />
-            <mxPoint x="610.3699999999999" y="472.72999999999996" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KGYbSAg6BSP5IO7GAI9m-132" value="" style="endArrow=classic;html=1;rounded=0;endSize=2;curved=1;fillColor=#e51400;strokeColor=#B20000;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="704.72" y="565.24" as="sourcePoint" />
-            <mxPoint x="718.72" y="545.24" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="711.8499999999999" y="563.9" />
-              <mxPoint x="718.8499999999999" y="553.9" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="KGYbSAg6BSP5IO7GAI9m-133" value="" style="endArrow=classic;html=1;rounded=0;endSize=2;curved=1;fillColor=#e51400;strokeColor=#B20000;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="594" y="507.90000000000003" as="sourcePoint" />
@@ -1463,9 +1435,6 @@
         </mxCell>
         <mxCell id="KGYbSAg6BSP5IO7GAI9m-170" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot; color=&quot;#db211b&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;Input&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=60;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="585.98" y="500.94999999999993" width="38.15" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KGYbSAg6BSP5IO7GAI9m-171" value="&lt;font size=&quot;1&quot; color=&quot;#dc221c&quot; style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;Unet&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-60;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="686.9399999999999" y="542.92" width="40.51" height="20.6" as="geometry" />
         </mxCell>
         <mxCell id="KGYbSAg6BSP5IO7GAI9m-185" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=0.5;fillColor=#fda150;strokeColor=#f87f24;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="675.57" y="382" width="8" height="8" as="geometry" />
